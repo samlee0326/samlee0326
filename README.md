@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Your Name]!
 
-I'm a **beginner data engineer** passionate about building data pipelines, working with large datasets, and turning raw data into valuable insights. 
-I'm currently learning and growing through hands-on projects and exploring modern data tools.
+I'm an aspiring data engineer with a passion for building data pipelines, working with large datasets, and transforming raw data into meaningful insights. 
+I'm actively learning through hands-on projects and exploring modern data technologies.
 
 ## 🔧 Tech Stack & Tools
 
