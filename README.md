@@ -9,7 +9,7 @@ I'm actively learning through hands-on projects and exploring modern data techno
 - **Frameworks**: Django
 - **Workflow Orchestration**: Apache Airflow
 - **Data Processing**: Pandas, Apache Spark
-- **Data Warehousing**: Amazon Redshift
+- **Data Warehousing**: Amazon Redshift, Snowflake
 - **Containerization**: Docker
 - **Data Visualization**: Preset (Apache Superset), Sprinklr
 - **Web Crawling**: Selenium,BeautifulSoup
