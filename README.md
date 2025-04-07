@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sam (Sangwon) Lee!
 
 I'm an aspiring data engineer with a passion for building data pipelines, working with large datasets, and transforming raw data into meaningful insights. 
 I'm actively learning through hands-on projects and exploring modern data technologies.
