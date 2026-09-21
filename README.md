@@ -42,7 +42,8 @@ I'm currently diving deeper into:
 ## 📫 Let's Connect!
 
 Feel free to connect or check out what I’m working on:
-- :ballot_box_with_check: [My Portfolio](https://flax-entree-f78.notion.site/1b6db7c679148072a708e985fbfb2294)
+<!--  - :ballot_box_with_check: [My Portfolio](https://flax-entree-f78.notion.site/1b6db7c679148072a708e985fbfb2294)
+-->
 - 📩 [My Email Address](samlee0326@gmail.com)
 - 🌐 [My Linkedin Account](https://www.linkedin.com/in/sangwon-lee-78512a148/)
 
