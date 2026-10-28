@@ -32,12 +32,12 @@ Here are some tools and technologies I've worked with in past projects:
 - 🗂️ Orchestrated data workflows using **Apache Airflow** for scheduled and automated ETL tasks.
 - 📦 Containerized applications using **Docker** for easy deployment and reproducibility.
 - ⚡ Used **Apache Spark** for processing of large-scale data.
-- 📈 Created interactive dashboards with **Preset** to explore and visualize data.
+- 📈 Created interactive dashboards with **SuperSet** to explore and visualize data.
 
 ## 🚀 What I’m Learning
 
 I'm currently diving deeper into:
-- Advanced Spark and real-time data processing
+- Medallion Architecture
 - CI/CD with Github action
 ## 📫 Let's Connect!
 
