@@ -33,7 +33,7 @@ NYC Mobility Data Platform (Private Repository)
 
 ## 💼 Professional Experience Highlights
 
-### 🎮 FC Online Player Analytics Pipeline -Kyung-Woon
+### 🎮 Player Data Analytics Pipeline - Kyung-Woon
 **Python | PySpark | AWS S3 | Amazon Redshift | Apache Airflow**
 - Collected data for the top 1,000 players through approximately 3,000 daily REST API requests.
 - Transformed nested JSON data into structured Parquet datasets using PySpark.
@@ -41,13 +41,13 @@ NYC Mobility Data Platform (Private Repository)
 - Consolidated 14 DAGs into 3 workflows.
 - Reduced EC2 operating costs by approximately 50%.
 
-### AWS Data Analytics Solutions — AWS Korea
+### AWS Data Analytics Solutions Intern — AWS
 **Python | AWS CDK | AWS DMS | Change Data Capture (CDC) | AWS Glue | Apache Hudi | Apache Iceberg | Delta Lake**
 - Built CDC-based ingestion pipelines using AWS DMS and Amazon S3.
 - Explored Apache Hudi, Iceberg, and Delta Lake with AWS Glue.
 - Automated cloud analytics infrastructure deployment using AWS CDK, reducing deployment time from 7 minutes to under 2 minutes.
 
-### Data Pipeline Automation — EY Korea
+### Associate Data Analyst — EY
 **Python | REST APIs | Requests | Selenium | Regular Expressions (Regex)**
 - Developed Python-based automation for multilingual social listening data pipelines.
 - Optimized REST API processing, reducing latency by over 80% across 13 regions.
